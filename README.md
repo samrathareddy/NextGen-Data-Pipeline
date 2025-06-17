@@ -1,4 +1,4 @@
-# NextGen Data Pipeline 🚀
+# Reusable ETL Framework with Airflow 🚀
 
 An **end-to-end data pipeline project** built using Apache Airflow, Docker, and GCP to demonstrate modern data engineering practices. This project simulates real-world ETL workflows to extract, transform, and load data efficiently and reliably.
 
